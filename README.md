@@ -1,2 +1,2 @@
 # test00
-just got tools test purposes
+just git tools test purposes
